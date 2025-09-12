@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> 
   <a href="https://sunguoqi.com/"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A9AF7&center=true&vCenter=true&width=1000&lines=console.log(%22Hello%2C%20World!%22);The+people+who+are+crazy+enough+to+think+they+can+change+the+world+are+the+ones+who+do."> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Do not go gentle into that good night&center=true&size=27"> 
   </a> 
 </h1>
 
