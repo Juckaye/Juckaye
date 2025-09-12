@@ -14,5 +14,4 @@
 # 🙋 Hello
 
 ### 🤺 About Me
-- I'm Juckaye
 - I love reading, movies, music and traveling
