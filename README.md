@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> 
   <a href="https://sunguoqi.com/"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);The people who are crazy enough to think they can change the world are the ones who do.&center=true&size=27"> 
+    <img src="https://readme-typing-svg.demolab.com/?lines=console.log(%22Hello%2C%20World!%22);The%20people%20who%20are%20crazy%20enough%20to%20think%20they%20can%20change%20the%20world%20are%20the%20ones%20who%20do.&center=true&size=27"> 
   </a> 
 </h1>
 
