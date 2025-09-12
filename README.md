@@ -7,28 +7,12 @@
   </a>
 </h1>
 
-  <!-- 编程图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
-
   <div>&nbsp;</div>
-
-  <!-- 社交徽章 -->
-  <div>
-    <a href="https://twitter.com/Kai Jia"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@Kai Jia"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://你的博客.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=Kai Jia&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  </div>
 
 </div>
 
 # 🙋 Hello
 
 ### 🤺 About Me
-- 嗨，你好，我是 Juckaye。
-- 热爱阅读、电影、音乐和旅行。
-- 希望能让世界更美好。
+- I'm Juckaye
+- I love reading, movies, music and traveling
